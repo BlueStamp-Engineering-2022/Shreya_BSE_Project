@@ -1,5 +1,5 @@
 ﻿# Tabletop robot
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+My tabletop robot essentially wanders around a table and doesn't fall off. When the sensors find the edge of the table, it knows that it is about to fall off, and the robot turns around. The machine uses two DC motors to move around, a motor driver, and an Arduino.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -18,7 +18,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was building the main structure of the car and making it move. I added the wheels and the motors to the bottom of the baseplate to allow the robot to drive around. I added the L298N Motor Driver on top of the baseplate, and it is used to easily control the direction and speed of the 2 DC motors. The Motor Driver connects to the battery and the motors with wires, and it also connects to the Arduino. With the Arduino IDE, I programmed my tabletop robot to move back and forth by making the wheels move in the same direction. To make it turn, I had to make the two wheels roll in different directions.
 
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
 
