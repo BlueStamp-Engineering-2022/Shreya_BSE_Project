@@ -27,5 +27,5 @@ My starter project was the TV-B-Gone. It uses infrared lights to send a signal t
 
 [![Shreya Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657729004/video_to_markdown/images/youtube--De6qREumefA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=De6qREumefA "Shreya Starter Project")
 
-This is my circuit diagram:
+This is my circuit diagram for the tabletop robot:
 <img width="942" alt="Screen Shot 2022-07-14 at 2 42 33 PM" src="https://user-images.githubusercontent.com/108836256/179091952-e76d0527-ba33-4314-b711-3c503273fa8a.png">
