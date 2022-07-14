@@ -29,3 +29,6 @@ My starter project was the TV-B-Gone. It uses infrared lights to send a signal t
 
 This is my circuit diagram for the tabletop robot:
 <img width="923" alt="Screen Shot 2022-07-14 at 3 29 57 PM" src="https://user-images.githubusercontent.com/108836256/179099234-c2fa77e9-1c3d-499a-a123-963ccdacb958.png">
+
+This is my code for the tabletop robot:
+https://github.com/BlueStamp-Engineering-2022/Shreya_BSE_Project/blob/gh-pages/sketch_jul12b.ino
