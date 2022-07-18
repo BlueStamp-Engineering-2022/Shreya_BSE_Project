@@ -8,7 +8,7 @@ My tabletop robot essentially wanders around a table and doesn't fall off. When 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone was adding the ultrasonic sensor to my tabletop robot. The ultrasonic sensor tells the distance between it and an object in its path, and it works by emitting a sound and seeing how long it takes to bounce back. I hotglued the sensor to the front of the robot. I had to update my code so that when the sensor detects an object within 15 centimeters of the robot, it turns around and moves in a different direction. It was hard to get it to work with the IR sensors because a lot of timers were being used, so I had to remove some things from my program to make it work properly.
 
 [![Shreya Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1658164637/video_to_markdown/images/youtube--LsFNjhlkAtU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=LsFNjhlkAtU "Shreya Milestone 3")
 
