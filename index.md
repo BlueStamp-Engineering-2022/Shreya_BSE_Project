@@ -6,6 +6,7 @@ My tabletop robot essentially wanders around a table and doesn't fall off. When 
 | Shreya | Monta Vista | Computer Science | Incoming Sophomore
 
 ![Headstone Image]
+
 <img width="242" alt="Screen Shot 2022-07-22 at 10 22 11 AM" src="https://user-images.githubusercontent.com/108836256/180492122-a0a7b29b-bad5-4d51-9800-0d04d4278c27.png">
   
 # Final Milestone
