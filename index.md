@@ -1,5 +1,5 @@
 ﻿# Tabletop robot
-My tabletop robot essentially wanders around a table and doesn't fall off. When the sensors find the edge of the table, it knows that it is about to fall off, and the robot turns around. The machine uses two DC motors to move around, a motor driver, and an Arduino.
+My tabletop robot essentially wanders around a table and doesn't fall off. When the sensors find the edge of the table, it knows that it is about to fall off, and the robot turns around. The machine uses an Arduino Uno, a motor driver, 2 DC motors, 2 IR sensors, and an ultrasonic sensor.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
